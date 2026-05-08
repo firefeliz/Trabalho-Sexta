@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Habibi&display=swap');
+body{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+      background-color: rgb(0, 0, 0);
+  background-image: linear-gradient(
+    to bottom,
+    rgb(59, 53, 53) 50%,
+    #3a3838 5%,
+    transparent 100%,
+    transparent 100%
+  );
+  background-size: 100% 40px;
+}
+h1{
+        font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0.5cm;
+
+  font-size: 3cm;
+    color: rgb(77, 12, 7); text-shadow: 2px 2px 5px rgb(238, 146, 146); text-align: center; background: fixed; background-color: black; width: 100% ; border-radius: 0.4cm;
+   
+}
+h3{
+    font-family: "Habibi", system-ui;
+    color: rgb(148, 35, 35); text-shadow: 2px 2px 5px rgb(0, 0, 0); text-align: center;
+    font-size: 1cm;
+}
+img{
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+
+form{
+color: white;
+font-family: "Habibi", system-ui;
+text-decoration: none;
+font-size: 0.6cm;
+ color: rgb(148, 35, 35); text-shadow: 2px 2px 5px rgb(0, 0, 0); text-align: center;
+}
+a {
+  color: white;
+   color: rgb(148,35, 35); text-shadow: 2px 2px 5px rgb(0, 0, 0); text-align: center;
+  text-decoration: none;
+  
+}
+a:hover {
+  color: rgb(251, 0, 0);
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+img{
+  margin: 50px
+}

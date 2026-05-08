@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Habibi&display=swap');
+body{
+    background-color: black;
+}
+h1{
+    font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0.5cm;
+
+  font-size: 3cm;
+    color: rgb(255, 255, 255); text-shadow: 2px 2px 5px rgb(48, 45, 45); text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+p{
+  color: white;
+  text-align: center;
+  font-size: 1cm;
+}
+button{
+  display: block;
+  margin: 0 auto;
+  width: 4cm;
+  height: 2cm;
+  font-size: auto;
+  text-decoration:none ;
+  background-color: rgb(56, 1, 1);
+  border-radius: 1cm;
+  border:none
+}
+
+button a{
+  color: rgb(255, 255, 255);
+  text-decoration:none ;
+  font-size: 0.7cm;
+}
+
+button a:hover{
+  color: rgb(151, 150, 150);
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);}
